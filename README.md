@@ -2,6 +2,7 @@
 
 Get Google Inbox snoozed emails directly to Evernote
 Fully enjoy Google Inbox User Experience without changing your evernote task management behaviour
+www.snoozever.com
 
 ### Requirements
 
