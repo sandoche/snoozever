@@ -48,7 +48,7 @@ function snoozever() {
     // Get last message of threads
      var message = threads[i].getMessages()[threads[i].getMessageCount()-1];
 
-    //Forward first message to evernote
+    //Forward last message to evernote
     message.forward(evernoteEmail, {
       subject: 'To do from inbox - '+message.getSubject()+' '+tags+' '+notebook
     });
