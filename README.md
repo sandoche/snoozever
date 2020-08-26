@@ -1,5 +1,9 @@
 # snoozever
 
+[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](/LICENSE)
+[![Medium Badge](https://badgen.net/badge/icon/medium?icon=medium&label)](https://medium.com/@sandoche)
+[![Twitter: sandochee](https://img.shields.io/twitter/follow/sandochee.svg?style=social)](https://twitter.com/sandochee)
+
 Get Google Inbox snoozed emails directly to Evernote
 
 Fully enjoy Google Inbox User Experience without changing your evernote task management behaviour
